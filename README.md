@@ -1,1 +1,2 @@
 # Time-Series-Analysis
+### R code and written analysis of time series problems. These files pertain to graduate coursework in the Time Series Analysis course at Florida State University's Department of Economics. 
